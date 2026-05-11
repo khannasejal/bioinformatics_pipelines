@@ -1,0 +1,2 @@
+FASR	H3K27ac	SRR7707702.fastq.gz.sorted.bam	SRR7707706.fastq.gz.sorted.bam
+
